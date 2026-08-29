@@ -51,7 +51,7 @@ Solving `x² + 5x + 6 = 0` three separate times, entirely on a cell phone, at in
 ## task 4: verify
 
 `QuadRoot::QuadRoot(c(a, b, c))`
-[1] "The two x-intercepts for the quadratic equation are -2.0000 and -3.0000."
+`[1] "The two x-intercepts for the quadratic equation are -2.0000 and -3.0000." `
 
 
 
