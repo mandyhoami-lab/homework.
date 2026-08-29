@@ -1,5 +1,5 @@
 
-## re: lecture 02 practice (formerly known as firsthomework.ipynb)
+## Re: lecture 02 practice (formerly known as firsthomework.ipynb)
 Solving `x² + 5x + 6 = 0` three separate times, entirely on a cell phone, at increasing levels of consciousness?
 
 
@@ -25,7 +25,7 @@ Solving `x² + 5x + 6 = 0` three separate times, entirely on a cell phone, at in
 - Installing an entire R package to get the second root was, in fact, less typing than writing `x_minus <- (-b - sqrt(...)) / (2*a)`. This is neither optimal engineering it’s more of a cry for help
 -  ‘i'm so sleepy’ and it was left in
 
-## re lecture 02 CLEANED
+## Re lecture 02 CLEANED
 
 # i fully cleaned from all prior reformatting metadata.
 
