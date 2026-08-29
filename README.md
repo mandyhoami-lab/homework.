@@ -25,7 +25,7 @@ Solving `x² + 5x + 6 = 0` three separate times, entirely on a cell phone, at in
 - Installing an entire R package to get the second root was, in fact, less typing than writing `x_minus <- (-b - sqrt(...)) / (2*a)`. This is neither optimal engineering it’s more of a cry for help
 - One code cell contains only the comment ‘#i am so sleepy’ and it was left in as a scientific record.
 
-#this 
+# this
 
 ```r
 a <- 1; b <- 5; c <- 6
@@ -33,6 +33,6 @@ disc <- sqrt(b^2 - 4*a*c)
 c((-b + disc) / (2*a), (-b - disc) / (2*a))
 ```
 
-`
+
 
 
