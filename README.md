@@ -1,4 +1,4 @@
-# homework.
+# data science with R.
 
 
 # re: firsthomework.ipynb
