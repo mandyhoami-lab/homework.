@@ -2,7 +2,6 @@
 ## re: lecture 02 practice (formerly known as firsthomework.ipynb)
 Solving `x² + 5x + 6 = 0` three separate times, entirely on a cell phone, at increasing levels of consciousness?
 
-,
 
 # development 
 
@@ -34,6 +33,6 @@ disc <- sqrt(b^2 - 4*a*c)
 c((-b + disc) / (2*a), (-b - disc) / (2*a))
 ```
 
-, 
+
 
 
