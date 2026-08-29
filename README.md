@@ -1,1 +1,2 @@
 # homework.
+# ermmmmmm this was made because i can't see without my glasses and i have to do everything on my phone bc i cannot see two FEET in front of me so here is a REALLY bad repo to hold all of my R assignments for my data science class.
