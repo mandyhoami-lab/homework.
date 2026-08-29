@@ -4,14 +4,14 @@
 # re: lecture 02 practice (formerly known as firsthomework.ipynb)
 Solving `x² + 5x + 6 = 0` three separate times, entirely on a phone, at increasing levels of consciousness.
 
-## The development environment
+# The development environment
 
 - *Hardware: phone
 - *Keyboard phone keyboard
 - **IDE: Google Colab, viewed through a phone
 - **Emotional state is deteriorating (see commit history / cell comments)
 
-## What is in here
+# What is in here
 
 | thw Task | the approach | the result |
 |---|---|---|
@@ -19,14 +19,14 @@ Solving `x² + 5x + 6 = 0` three separate times, entirely on a phone, at increas
 | 1.2 | Manual quadratic formula again, just to be sure | `-2` (still) |
 | 1.3 | `install.packages("QuadRoot")` because typing `-sqrt()` a second time felt like too much | `-2` and `-3`, and it even writes you a sentence about it |
 
-## my findings include
+# my findings include
 
 - The quadratic formula has not changed since task 1.1.
 - Confirming this in task 1.2 did not change it either.
 - Installing an entire R package to get the second root was, in fact, less typing than writing `x_minus <- (-b - sqrt(...)) / (2*a)`. This is neither optimal engineering it’s more of a cry for help
 - One code cell contains only the comment ‘#i am so sleepy’ and it was left in as a scientific record.
 
-## reproduction 
+# reproduction 
 
 ```r
 a <- 1; b <- 5; c <- 6
