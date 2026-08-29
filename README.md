@@ -36,19 +36,19 @@ Solving `x² + 5x + 6 = 0` three separate times, entirely on a cell phone, at in
 `b <- 5`
 `c <- 6`
 
-## task 2: compute
+# task 2: compute
 
 `x_plus <- (-b + sqrt(b^2 - 4 * a * c)) / (2 * a)`
 `x_plus`
 `[1] -2`
 
-## task 3: install Qdrt package
+# task 3: install Qdrt package
 
 ` install.packages("QuadRoot")`
 `Installing package into ‘/usr/local/lib/R/site-library’`
 ` (as ‘lib’ is unspecified)`
 
-## task 4: verify
+# task 4: verify
 
 `QuadRoot::QuadRoot(c(a, b, c))`
 `[1] "The two x-intercepts for the quadratic equation are -2.0000 and -3.0000." `
