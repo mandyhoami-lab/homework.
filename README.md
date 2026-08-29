@@ -34,7 +34,7 @@ disc <- sqrt(b^2 - 4*a*c)
 c((-b + disc) / (2*a), (-b - disc) / (2*a))
 ```
 
-Two lines and no install. No phone required, but not prohibited either
+, 
 
 ## 
 
