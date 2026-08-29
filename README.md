@@ -6,10 +6,10 @@ Solving `x² + 5x + 6 = 0` three separate times, entirely on a phone, at increas
 
 # The development environment
 
-- *Hardware: phone
-- *Keyboard phone keyboard
-- **IDE: Google Colab, viewed through a phone
-- **Emotional state is deteriorating (see commit history / cell comments)
+- Hardware: phone
+- Keyboard phone keyboard
+- Google Colab, viewed through a phone
+- ignore.. a lot of the commit history / cell comments 
 
 # What is in here
 
@@ -26,7 +26,7 @@ Solving `x² + 5x + 6 = 0` three separate times, entirely on a phone, at increas
 - Installing an entire R package to get the second root was, in fact, less typing than writing `x_minus <- (-b - sqrt(...)) / (2*a)`. This is neither optimal engineering it’s more of a cry for help
 - One code cell contains only the comment ‘#i am so sleepy’ and it was left in as a scientific record.
 
-# reproduction 
+#this 
 
 ```r
 a <- 1; b <- 5; c <- 6
@@ -36,5 +36,4 @@ c((-b + disc) / (2*a), (-b - disc) / (2*a))
 
 , 
 
-## 
 
