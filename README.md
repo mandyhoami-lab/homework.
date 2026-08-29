@@ -4,16 +4,16 @@
 # re: lecture 02 practice (formerly known as firsthomework.ipynb)
 Solving `x² + 5x + 6 = 0` three separate times, entirely on a phone, at increasing levels of consciousness.
 
-# The development environment
+# development 
 
 - Hardware: phone
 - Keyboard phone keyboard
 - Google Colab, viewed through a phone
 - ignore.. a lot of the commit history / cell comments 
 
-# What is in here
+# What happened?
 
-| thw Task | the approach | the result |
+| task | approach | result |
 |---|---|---|
 | 1.1 | Manual quadratic formula, typed by hand | `-2` |
 | 1.2 | Manual quadratic formula again, just to be sure | `-2` (still) |
