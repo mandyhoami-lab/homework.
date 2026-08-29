@@ -3,7 +3,7 @@
 Solving `x² + 5x + 6 = 0` three separate times, entirely on a cell phone, at increasing levels of consciousness?
 
 
-# development 
+# what I used 
 
 - Hardware: phone
 - Keyboard phone keyboard
