@@ -4,7 +4,7 @@
 # re: firsthomework.ipynb
 Solving `x² + 5x + 6 = 0` three separate times, entirely on a phone, at increasing levels of consciousness.
 
-## The Development Environment
+## The development environment
 
 - **Hardware:** phone
 - **Keyboard:** phone keyboard
