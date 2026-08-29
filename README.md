@@ -1,7 +1,4 @@
-# data science with R.
-
-
-# re: lecture 02 practice (formerly known as firsthomework.ipynb)
+##re: lecture 02 practice (formerly known as firsthomework.ipynb)
 Solving `x² + 5x + 6 = 0` three separate times, entirely on a cell phone, at increasing levels of consciousness?
 
 # development 
