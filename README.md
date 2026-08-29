@@ -24,7 +24,7 @@ Solving `x² + 5x + 6 = 0` three separate times, entirely on a cell phone, at in
 - Confirming this in task 2 did not change it either.
 - Installing an entire R package to get the second root was, in fact, less typing than writing `x_minus <- (-b - sqrt(...)) / (2*a)`. This is not optimal engineering. 
 
-## Re lecture 02 CLEANED
+## Re: lecture 02 CLEANED
 
 # i fully cleaned from all prior reformatting metadata.
 
