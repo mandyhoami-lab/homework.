@@ -15,9 +15,9 @@ Solving `x² + 5x + 6 = 0` three separate times, entirely on a cell phone, at in
 
 | task | approach | result |
 |---|---|---|
-| 1.1 | Manual quadratic formula, typed by hand | `-2` |
-| 1.2 | Manual quadratic formula again, just to be sure | `-2` (still) |
-| 1.3 | `install.packages("QuadRoot")` because typing `-sqrt()` a second time felt like too much | `-2` and `-3`, and it even writes you a sentence about it |
+| 1 | Manual quadratic formula, typed by hand | `-2` |
+| 2 | Manual quadratic formula again, just to be sure | `-2` (still) |
+| 3 | `install.packages("QuadRoot")` because typing `-sqrt()` a second time felt like too much | `-2` and `-3`, and it even writes you a sentence about it |
 
 # my findings include
 
